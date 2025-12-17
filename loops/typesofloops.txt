@@ -1,0 +1,21 @@
+c is a procedural programming language that is 2 types of loops which are
+1)pretest and 
+2)post test loops
+
+what are loops:
+a loop is a block of code that alows us to do some task repeatedly untill a certain condition is met
+1) Pretest loops:
+this are loops that test the condition before executing the content of the loop examples are 
+while loops
+and for loops
+2) Post test loops:
+this are loops that test the condition after executing the content of the loop atleast once
+example is
+do while loop.
+the do while loop allows us to execute the content of the loop atleast one beforechecking its condition
+syntax of do while loop:
+do
+{
+   //content of the loop
+}while(condition);
+
